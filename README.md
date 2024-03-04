@@ -12,7 +12,7 @@ Enotes Management System is a dynamic notes application that allows users to per
 - Tomcat Server
 - Java Database Connectivity (JDBC)
 - MySQL
-- Hibernate
+
 
 ### Features:
 - **CRUD Operations**: Implementing Create, Read, Update, and Delete operations for notes.
@@ -38,11 +38,10 @@ Enotes Management System is a dynamic notes application that allows users to per
     - `views/`: JSP files for the views.
     - `lib/`: External libraries.
     - `web.xml`: Deployment descriptor.
-- `resources/`:
-  - `hibernate.cfg.xml`: Hibernate configuration file.
   
 
-Feel free to customize this README template further with your project-specific details and instructions!
+
 
 
 ![image](https://github.com/kirtikumar8536/Enotes/assets/89144771/384159d6-487e-466b-ba60-3dd545a9c0ae)
+Feel free to customize this README template further with your project-specific details and instructions!
