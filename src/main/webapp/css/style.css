@@ -1,0 +1,16 @@
+.bg-custom {
+	background: #0d47a1;
+
+}
+
+.navbar-custom .nav-item:hover .nav-link {
+	transition: all 0.6s;
+	background-color: white;
+	color: black;
+	border-radius: 10px;
+}
+
+.gradient-color-register {
+	background-image: linear-gradient(to right top, #05370b, #005b3a, #008170, #00a7ac, #12cdeb);
+	height: 530px;
+}
